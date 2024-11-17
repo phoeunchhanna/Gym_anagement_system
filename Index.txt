@@ -1,0 +1,24 @@
+
+=======Gym management sytem======= 
+Type side : Desktop App (Window Form)
+Language : C#.Net 
+Version: .Net  Framework 4.7.2
+Database : Sql Server 
+Report : CrystalReport 2022
+link :
+https://www.tektutorialshub.com/crystal-reports/crystal-reports-download-for-visual-studio/
+
+==== Guide ====
+Step 1: Restore Database in SQL Server 
+Step 2: Change your connection database 
+Step 3 : Install Crystal Report 
+Step 4  : Run  
+
+Connect : 
+https://t.me/Chhanna_phoeun 
+You tube : 
+https://www.youtube.com/@ChhannaCode2002/videos
+
+
+Thank You !! 
+
